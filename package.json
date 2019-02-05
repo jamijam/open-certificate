@@ -22,7 +22,7 @@
   "dependencies": {
     "@govtechsg/open-attestation": "^1.1.23",
     "flat": "^4.1.0",
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "@istanbuljs/nyc-config-babel": "^1.2.3",
