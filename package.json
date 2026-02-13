@@ -20,7 +20,7 @@
   "author": "Raymond Yeh <yehjxraymond@gmail.com> (http://geek.sg)",
   "license": "ISC",
   "dependencies": {
-    "@govtechsg/open-attestation": "^1.1.23",
+    "@govtechsg/open-attestation": "^6.9.0",
     "flat": "^4.1.0",
     "lodash": "^4.17.10"
   },
